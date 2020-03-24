@@ -12,6 +12,9 @@ pip install --user numpy scipy dlib
 
 the pre-trained models
 you can download from attached file or
-1.Download dlib_face_recognition_resnet_model_v1.dat.bz2  and shape_predictor_68_face_landmarks.dat.bz2 from keggle  or github
-2.Extract the two files in the same folder that you earlier created for the project, in my case it would be 'face_recognition' folder.
+
+1.Download dlib_face_recognition_resnet_model_v1.dat.bz2  
+   and shape_predictor_68_face_landmarks.dat.bz2 from keggle  or github
+2.Extract the two files in the same folder that you earlier created for 
+  the project, in my case it would be 'face_recognition' folder.
 
